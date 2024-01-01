@@ -11,3 +11,11 @@
                      build                        run
      Docker File -------------> Docker Image --------------> Docker Container 
 </ul>
+
+<br>
+<br>
+<h3>Installing Docker </h3>
+
+<ul>
+    <li>Go to the given link : <a href="https://docs.docker.com/engine/install/">Docker Engine  Install</a> and download docker according  of your operating system. </li>
+</ul>
