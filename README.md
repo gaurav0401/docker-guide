@@ -7,7 +7,7 @@
     <li> <b> Docker File:</b> It is a text document which contains all those commands that will be used to assemble an docker image </li>
     <li><b>Docker Image:</b>It is a  template for creating a docker container.</li>
     <li><b>Docker Container:</b>It is the running instance of docker image.It holds entire package  to run application.</li>
-    
-                  build                     run
+
+                     build                        run
      Docker File -------------> Docker Image --------------> Docker Container 
 </ul>
