@@ -8,5 +8,5 @@
     <li><b>Docker Image:</b>It is a  template for creating a docker container.</li>
     <li><b>Docker Container:</b>It is the running instance of docker image.It holds entire package  to run application.</li>
     
-    <big> Docker File ----> Docker Image ------> Docker Container </big>
+    <p> Docker File ----> Docker Image ------> Docker Container </p>
 </ul>
