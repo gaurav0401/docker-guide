@@ -17,5 +17,9 @@
 <h3>Installing Docker </h3>
 
 <ul>
-    <li>Go to the given link : <a href="https://docs.docker.com/engine/install/">Docker Engine  Install</a> and download docker according  of your operating system. </li>
+    <li>Install linux distro on your system using wsl (windows subsystem for linux) using <a href="https://youtu.be/eId6K8d0v6o?si=xdaBT47iu2rQYK4d">How to install wsl for windows 11</a></li>
+    <li>Now , go to the   <a href="https://docs.docker.com/engine/install/">Docker Engine  Install</a> and download docker according  of your operating system. </li>
+    <li>Install  downloaded file of docker and restart you system. Then sign-up on docker.</li>
+    <li>Now go to the cmd and type <big><b>'docker -v</b></big> to check the version of the installed docker.</li>
+    <li>Now run a given command to to run first docker image  'docker run hello-world' , if the command get executed successfully it means docker has been successfully installed on your system.</li>
 </ul>
