@@ -53,5 +53,5 @@
     <li><b>docker copy:</b>used to copy local files into docker image.</li>
     <li><b>docker logs:</b>used to retrieves logs of container at the time of execution.</li>
     <li><b>docker volume:</b>It is used to create  volumes to store data.</li>
-    <li><b>docker hub:</b>used to log out from docker hub.</li>
+    <li><b>docker log out:</b>used to log out from docker hub.</li>
 </ul>
