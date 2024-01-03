@@ -54,4 +54,18 @@
     <li><b>docker logs:</b>used to retrieves logs of container at the time of execution.</li>
     <li><b>docker volume:</b>It is used to create  volumes to store data.</li>
     <li><b>docker log out:</b>used to log out from docker hub.</li>
+    <li><b>WORKDIR</b>used to set current  working directory for instructions in dockerfile.</li>
+    <li><b>COPY</b>used to copy files from source to destination directory.</li>
+    <li><b>docker build -t 'image name' 'path(where docker file is located)':</b>used to create new image.</li>
+</ul>
+
+
+
+<h3>Building an image in docker</h3>
+<ul>
+    <li><b>Create dockerfile in the separate folder  with name 'Dockerfile' (Note:Dockerfile is no extension).</b></li>
+    <li><b>Now write commands in docker files .</b></li>
+    <li><b>Now go to terminal and write build command for creating an image from dockerfile which is mentioned above. </b></li>
+    <li><b>It will takes sometime to create image. Once completed you can check your image using 'docker images' command. </b></li>
+    <li><b>Now you can use that image to create containers.</b></li>
 </ul>
