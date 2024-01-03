@@ -27,7 +27,7 @@
 
 
 <h3>Useful docker commands</h3>
-<ul>
+<ul><li><b>code .:</b>used to open folder in a vs code</li>
     <li><b>docker -v:</b>used to check docker version.</li>
     <li><b>docker pull 'image name':</b>used to pull image from a repository.</li>
     <li><b>docker pull 'image name:tag name':</b>used to pull image  of specific version.</li>
