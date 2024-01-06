@@ -56,6 +56,7 @@
     <li><b>docker log out:</b>used to log out from docker hub.</li>
     <li><b>WORKDIR: </b>used to set current  working directory for instructions in dockerfile.</li>
     <li><b>COPY: </b>used to copy files from source to destination directory.</li>
+    <li><b>docker image rm $(docker image ls -a) </b>used to remove all images at once </li>
     <li><b>docker build -t 'image name' 'path(where docker file is located)':</b>used to create new image.</li>
     <li><b>docker run -p using port : allocated port (8001:8000) 'image name':</b>used to run container on a specific port number.</li>
 
