@@ -52,7 +52,7 @@
     <li><b>docker push :</b>used to push / upload docker images to docker hub.</li>
     <li><b>docker copy:</b>used to copy local files into docker image.</li>
     <li><b>docker logs:</b>used to retrieves logs of container at the time of execution.</li>
-    <li><b>docker volume:</b>It is used to create  volumes to store data.</li>
+    <li><b>docker volume:</b> It is a independent file system of docker which  is used to create  volumes to store container's data.</li>
     <li><b>docker log out:</b>used to log out from docker hub.</li>
     <li><b>WORKDIR: </b>used to set current  working directory for instructions in dockerfile.</li>
     <li><b>COPY: </b>used to copy files from source to destination directory.</li>    
